@@ -1,0 +1,17 @@
+Warrior:
+  HP: 150
+  MP: 0
+  STR: 50
+  DEF: 50
+  INT: 0
+  RES: 0
+  SPD: 10
+
+Wizard:
+  HP: 90
+  MP: 120
+  STR: 10
+  DEF: 20
+  INT: 60
+  RES: 40
+  SPD: 15
